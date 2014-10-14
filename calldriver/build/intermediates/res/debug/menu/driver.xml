@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.calldriver.DriverActivity" >
+    <group android:id="@+id/driver_group1">
+        <item android:id="@+id/driver_datasetting" android:title="@string/driver_datasetting"></item>
+    <item android:id="@+id/driver_photosetting" android:title="@string/driver_photosetting"></item></group>
+    
+
+</menu>
+<!-- From: file:/D:/Bug-office/ADT/workspace/calldriver/res/menu/driver.xml -->
